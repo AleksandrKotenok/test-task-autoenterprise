@@ -1,0 +1,38 @@
+p{
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 21px;
+   color: #31B447;
+   margin-left: 57px;
+}
+h1{
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 44px;
+   line-height: 117.9%;
+   color: #333333;
+   
+   margin-bottom: 79px;
+}
+h2{
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 900;
+   font-size: 40px;
+   line-height: 117.9%;
+   color: #333333;
+   margin-left: 57px;
+}
+body{
+   background-color: #E5E5E5;
+}
+a,li{
+   text-decoration: none;
+}
+a:focus,a:hover{
+   text-decoration:underline;
+   color: #31B447;
+}

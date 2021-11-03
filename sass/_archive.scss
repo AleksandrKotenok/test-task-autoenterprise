@@ -1,0 +1,13 @@
+.archive__list{
+   display: flex;
+   flex-wrap: wrap;
+   list-style-type:none;
+   padding-left: 0;
+}
+
+.archive__item{
+   background-color: #ffffff;
+   margin-top: 15px;
+   margin-right: 20px;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5)
+}
